@@ -22,3 +22,5 @@ public class Account {
         } else {
             System.out.println("Invalid deposit amount");
         }
+}
+}
